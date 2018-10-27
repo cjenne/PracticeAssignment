@@ -21,16 +21,15 @@ h2 {
 
 #container {
     margin: 0 auto;
+    float: left;
 }
 
 section#main-bio {
-    float: left;
     width: 70%;
     margin-bottom: 22px
 }
 
 section#contact-info {
-    float: left;
     width: 30%;
     line-height: 150%;
 }
@@ -40,6 +39,5 @@ link {
 }
 
 section#bio-image {
-    float: left;
     width: 200px;
 }
